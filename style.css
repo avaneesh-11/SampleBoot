@@ -1,0 +1,28 @@
+.btn{
+    width: 8rem;
+}
+
+.isolate{
+    isolation: isolate;
+}
+
+.light{
+    background: #fff;
+}
+
+.hero{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.hero::before{
+    background: url('./Images/hero.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    content: '';
+    inset: 0;
+    position: absolute;
+    opacity: 0.7;
+}
