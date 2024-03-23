@@ -2,6 +2,10 @@
     width: 8rem;
 }
 
+.playTop{
+    top: 12%;
+}
+
 .isolate{
     isolation: isolate;
 }
