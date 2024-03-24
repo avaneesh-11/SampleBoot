@@ -24,4 +24,4 @@ This web page serves as the online presence for our company. It provides informa
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/company-web-page.git
+   git clone https://github.com/avaneesh-11/SampleBoot.git
